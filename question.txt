@@ -1,0 +1,25 @@
+1. Why we need encapsulation?
+A. to protect data          B. to share data
+C. to declare a function    D. for security
+Ans: A & D 
+
+2. How many access modifiers do we have?
+A. 1               B. 2
+C. 3               D. 4
+Ans: C 
+
+3. If there are public access modifiers we can access data.
+A. True            B. False
+Ans: A 
+
+4. If there are Private access modifiers inner function can access data.
+A. True            B. False
+Ans: A 
+
+5. If there are Protected access modifiers drive-class(child class) can access data.
+A. True            B. False
+Ans: A 
+
+6. Encapsulation helps to reduce the code complexity.
+A. True            B. False
+Ans: A 
