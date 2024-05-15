@@ -23,3 +23,149 @@ Ans: A
 6. Encapsulation helps to reduce the code complexity.
 A. True            B. False
 Ans: A 
+
+7. Which feature of OOP indicates code reusability?
+A. Abstraction     B. Encapsulation
+C. Polymorphism    D. Inheritance
+Ans:D
+
+8. Which is the correct syntax of inheritance?
+A. class base_classname :access derived_classname 
+B. class derived_classname : access base_classname
+C. class derived_classname : base_classname
+D. class base_classname : derived_classname
+Ans: B
+
+9. In multilevel inheritance, which is the most significant feature of OOP used??
+A. Code efficiency      B. Code readability
+C. Flexibility          D. Code reusability
+Ans: D
+
+10. What is encapsulation in OOP?
+A. It is a way of combining various data members and member functions that operate on those data members into a single unit
+B. It is a way of combining various data members and member functions into a single unit which can operate on any data
+C. It is a way of combining various data members into a single unit
+D. It is a way of combining various member functions into a single unit
+Ans: a
+
+11. Which of the following is not true about polymorphism?
+A. Helps in redefining the same functionality
+B. Increases overhead of function definition always
+C. It is feature of OOP
+D. Ease in readability of program
+Ans: B
+
+12. What is an abstraction in object-oriented programming?
+A. Hiding the implementation and showing only the features
+B. Hiding the important data
+C. Hiding the implementation
+D. Showing the important data
+Ans: A
+
+13. In which access should a constructor be defined, so that object of the class can be created in any function?
+A. Any access specifier will work
+B. Private
+C. Public
+D. Protected
+Ans: C 
+
+14. Which among the following represents correct constructor?
+A. –classname()         B. classname()
+C. ()classname          D. ~classname()
+Ans: C 
+
+15. Which access specifier is usually used for data members of a class?
+A. Protected            B. Private
+C. Public               D. Default
+Ans: B 
+
+16. Which feature of OOP reduces the use of nested classes?
+A. Inheritance            B. Binding
+C. Abstraction            D. Encapsulation
+Ans: A 
+
+17. Which type of members can’t be accessed in derived classes of a base class?
+A. Protected            B. Private
+C. Public               D. All can be accessed
+Ans: B 
+
+18. Which keyword is used to declare virtual functions?
+A. B.
+C. D.
+Ans:
+19. Which feature of OOP indicates code reusability?
+A. Vir                  B. Virtually
+C. Void                 D. Virtual
+Ans: D 
+
+20. Which feature of OOP is exhibited by the function overriding?
+A. Polymorphism         B. Abstraction
+C. Encapsulation        D. Inheritance
+Ans: A 
+
+20. Which feature of OOP is exhibited by the function overriding?
+A. Polymorphism         B. Abstraction
+C. Encapsulation        D. Inheritance
+Ans: A 
+
+21. What is an object in OOP?
+A. A variable                   B. A block of code
+C. An instance of a class       D. A built-in function
+Ans: C 
+
+22. Which keyword is used to inherit a class in Python?
+A. extends           B. inherit
+C. superclass        D. class
+Ans: A 
+
+23. Which access specifier in Python indicates that an attribute should not be accessed directly from outside the class?
+A. public           B. private
+C. protected        D. hidden
+Ans: B 
+
+24. What is an abstract class in Python?
+A. A class that cannot be instantiated
+B. A class with only private methods
+C. A class with only public methods        
+D. A class with no methods
+Ans: A 
+
+25. How do you define an abstract class in Python?
+A. By using the abstract keyword         
+B. By using the virtual keyword
+C. By using the abstract class statement        
+D. By importing the abc module and using @abstractmethod decorator
+Ans: D 
+
+26. What is an interface in Python?
+A. A class that cannot be inherited         
+B. A blueprint of a class without any implementation
+C. A class with only private methods        
+D. A class with only public methods
+Ans: B 
+
+27. What is the purpose of the __init__ method in Python classes?(dander)
+A. To define private attributes        
+B. To define public attributes
+C. To initialize object state        
+D. To delete an object
+Ans: A 
+
+28. Which keyword is used to define a method in a Python class?
+A. method         B. def
+C. define         D. function
+Ans: B 
+
+29. What does the self keyword represent in Python class methods?
+A. It represents the superclass         
+B. It represents the subclass
+C. It represents the current object instance        
+D. It represents the class itself
+Ans: D 
+
+30. What does the __str__ method do in Python?(dander)
+A. Converts an object to a string         
+B. Converts a string to an object
+C. Compares two objects        
+D. Initializes an object
+Ans: A 
